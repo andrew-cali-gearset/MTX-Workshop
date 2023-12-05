@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Partner__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>A checkbox that designates whether this account is a partner.</description>
+    <externalId>false</externalId>
+    <label>Partner?</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Checkbox</type>
+</CustomField>
